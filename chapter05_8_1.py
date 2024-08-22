@@ -14,3 +14,5 @@ def f(x):
 
 for key1, val1 in a.items():
     print(key1, f(val1))
+
+print('answer:4')
